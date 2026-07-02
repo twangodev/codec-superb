@@ -439,6 +439,26 @@ const results = {
   "music_stoi": 0.559,
   "music_f0corr": 0.729
  },
+ "spine": {
+  "bps": 1.57,
+  "tps": 88,
+  "speech_mel": 0.851,
+  "speech_pesq": 1.976,
+  "speech_stoi": 0.867,
+  "speech_f0corr": 0.835,
+  "overall_mel": 1.167,
+  "overall_pesq": 1.793,
+  "overall_stoi": 0.692,
+  "overall_f0corr": 0.638,
+  "audio_mel": 1.315,
+  "audio_pesq": 1.536,
+  "audio_stoi": 0.575,
+  "audio_f0corr": 0.327,
+  "music_mel": 1.334,
+  "music_pesq": 1.868,
+  "music_stoi": 0.634,
+  "music_f0corr": 0.752
+ },
  "sqcodec_16k_0k75bps": {
   "bps": 0.75,
   "tps": 50,

@@ -95,6 +95,7 @@ values = {
     's3tokenizer_v2_25hz': {'bps': 0.25, 'tps': 25},  # V2 25hz
     's3tokenizer_v3_25hz': {'bps': 0.25, 'tps': 25},  # V3 25hz
     'speech_tokenizer_16k': {'bps': 4, 'tps': 50},
+    'spine': {'bps': 1.57, 'tps': 88},  # 4 FSQ scales at 46.875/{8,4,2,1} Hz
     'sqcodec_16k_0k75bps': {'bps': 0.75, 'tps': 50},
     'sqcodec_16k_12kbps': {'bps': 12, 'tps': 50},
     'sqcodec_16k_1k5bps': {'bps': 1.5, 'tps': 50},
